@@ -1,2 +1,3 @@
 # hello-world
-git learner
+I am a 
+ret. USN and EMT. I have found my passion with technology and learning myself with the help of Udacity Nano degree programs to refine my dreams of being a maker of greta things.... It only too me two decades to listen to everyone and myself on what seem to drive me and make me a great human bieng...
